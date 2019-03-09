@@ -42,7 +42,7 @@ Use the CLI!!!!
 
 # How To Use
 
-## Genereal infos
+## General infos
 
 Open a terminal on folder project
 
@@ -70,22 +70,22 @@ Optional parameters:
  --service
 ```
 
-## Generate Class
+## Generate Class
 
 `node . --package=package.from.root.package.name --name=yourClassName`
 
-## Generate Controller
+## Generate Controller
 
 `node . --package=package.from.root.package.name --name=yourClassName --controller`
 
-## Generate RestController
+## Generate RestController
 
 `node . --package=package.from.root.package.name --name=yourClassName --restController --requestMapping=apiurlexample`
 
 Required api name mapping
 `--requestMapping=apiurlexample`
 
-## Generate Service
+## Generate Service
 
 `node . --package=package.from.root.package.name --name=yourClassName --service`
 
