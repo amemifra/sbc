@@ -13,8 +13,8 @@ Generate a Spring Boot project, example name: backend
   📂 backend
     📂 src
       📂 ...
-    ...
-    pom.xml / gradle.build
+    📄 ...
+    📄 pom.xml / 📄 gradle.build
 ```
 
 On root clone this repository 
@@ -28,12 +28,12 @@ Your folder look like:
   📂 backend
     📂 src
       📂 ...
-    ...
-    pom.xml // gradle.build
+    📄 ...
+    📄 pom.xml // 📄 gradle.build
  📂 sbc
-    index.js
-    package.json
-    README.md
+    📄 index.js
+    📄 package.json
+    📄 README.md
 ```
 
 Modify the index file at line 3 with your root package name
