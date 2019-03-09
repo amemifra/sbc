@@ -6,6 +6,8 @@ Introducing SBC Spring Boot CLI
 
 Generate class, @Controller, @RestController and @Service from command line interface
 
+## Set up
+
 Generate a Spring Boot project, example name: backend
 
 ```
@@ -40,9 +42,9 @@ Modify the index file at line 3 with your root package name
 
 Use the CLI!!!!
 
-# How To Use
+## How To Use
 
-## General infos
+### General infos
 
 Open a terminal on folder project
 
@@ -70,22 +72,22 @@ Optional parameters:
  --service
 ```
 
-## Generate Class
+### Generate Class
 
 `node . --package=package.from.root.package.name --name=yourClassName`
 
-## Generate Controller
+### Generate Controller
 
 `node . --package=package.from.root.package.name --name=yourClassName --controller`
 
-## Generate RestController
+### Generate RestController
 
 `node . --package=package.from.root.package.name --name=yourClassName --restController --requestMapping=apiurlexample`
 
 Required api name mapping
 `--requestMapping=apiurlexample`
 
-## Generate Service
+### Generate Service
 
 `node . --package=package.from.root.package.name --name=yourClassName --service`
 
