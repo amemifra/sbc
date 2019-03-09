@@ -11,10 +11,10 @@ Generate a Spring Boot project, example name: backend
 ```
 📂
   📂 backend
-     📂 src
-        📂 ...
-     ...
-     pom.xml / gradle.build
+    📂 src
+      📂 ...
+    ...
+    pom.xml / gradle.build
 ```
 
 On root clone this repository 
@@ -26,10 +26,10 @@ Your folder look like:
 ```
 📂
   📂 backend
-     📂 src
-        📂 ...
-     ...
-     pom.xml // gradle.build
+    📂 src
+      📂 ...
+    ...
+    pom.xml // gradle.build
  📂 sbc
     index.js
     package.json
