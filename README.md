@@ -42,6 +42,8 @@ Use the CLI!!!!
 
 # How To Use
 
+## Genereal infos
+
 Open a terminal on folder project
 
 `cd sbc/`
@@ -60,15 +62,31 @@ to use SBC you have to set these required parameters:
 
 Optional parameters:  
 
-isController
+```
+ --controller
+ 
+ --restController --requestMapping=apiurlexample
+ 
+ --service
+```
+
+## Generate Class
+
+`node . --package=package.from.root.package.name --name=yourClassName`
+
+## Generate Controller
+
 `node . --package=package.from.root.package.name --name=yourClassName --controller`
 
-isRestController
+## Generate RestController
+
 `node . --package=package.from.root.package.name --name=yourClassName --restController --requestMapping=apiurlexample`
-if isRestController it require:
+
+Required api name mapping
 `--requestMapping=apiurlexample`
 
-isService
+## Generate Service
+
 `node . --package=package.from.root.package.name --name=yourClassName --service`
 
 
