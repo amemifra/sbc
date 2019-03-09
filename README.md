@@ -9,7 +9,7 @@ Generate class, @Controller, @RestController and @Service from command line inte
 Generate a Spring Boot project, example name: backend
 
 ```
-📂
+📂 project folder
   📂 backend
     📂 src
       📂 ...
@@ -24,7 +24,7 @@ On root clone this repository
 Your folder look like:
 
 ```
-📂
+📂 project folder
   📂 backend
     📂 src
       📂 ...
