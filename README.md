@@ -57,7 +57,7 @@ The last command run the CLI
 to use SBC you have to set these required parameters:
 
 ```
- --package=package.from.root.package.name
+ --package=package.from.app.root.package.name
 
  --name=yourClassName
 ```
