@@ -8,14 +8,14 @@ Generate class, @Controller, @RestController and @Service from command line inte
 
 Generate a Spring Boot project, example name: backend
 
-`
+```
 /
 -  /backend
     -  /src
         - ...
     - ...
     - pom.xml / gradle.build
-`
+```
 
 On root clone this repository 
 
@@ -23,7 +23,7 @@ On root clone this repository
 
 Your folder look like:
 
-`
+```
 /
 -  /backend
     -  /src
@@ -34,7 +34,7 @@ Your folder look like:
     - index.js
     - package.json
     - README.md
-`
+```
 
 Modify the index file at line 3 with your root package name
 
@@ -52,11 +52,11 @@ The last command run the CLI
 
 to use SBC you have to set these required parameters:
 
-`
+```
  --package=package.from.root.package.name
 
  --name=yourClassName
-`
+```
 
 Optional parameters:  
 
