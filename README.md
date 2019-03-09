@@ -17,7 +17,7 @@ Generate a Spring Boot project, example name: backend
     📄 pom.xml / 📄 gradle.build
 ```
 
-On root clone this repository 
+On project folder root clone this repository 
 
 `git clone https://github.com/amemifra/sbc.git`
 
