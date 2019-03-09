@@ -61,15 +61,15 @@ to use SBC you have to set these required parameters:
 Optional parameters:  
 
 isController
-`--controller`
+`node . --package=package.from.root.package.name --name=yourClassName --controller`
 
 isRestController
-`--restController`
+`node . --package=package.from.root.package.name --name=yourClassName --restController --requestMapping=apiurlexample`
 if isRestController it require:
 `--requestMapping=apiurlexample`
 
 isService
-`--service`
+`node . --package=package.from.root.package.name --name=yourClassName --service`
 
 
 
