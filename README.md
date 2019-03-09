@@ -29,7 +29,7 @@ Your folder look like:
     📂 src
       📂 ...
     📄 ...
-    📄 pom.xml // 📄 gradle.build
+    📄 pom.xml / 📄 gradle.build
   📂 sbc
     📄 index.js
     📄 package.json
