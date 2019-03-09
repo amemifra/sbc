@@ -30,7 +30,7 @@ Your folder look like:
       📂 ...
     📄 ...
     📄 pom.xml // 📄 gradle.build
- 📂 sbc
+  📂 sbc
     📄 index.js
     📄 package.json
     📄 README.md
